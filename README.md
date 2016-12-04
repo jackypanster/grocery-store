@@ -2,7 +2,7 @@
 a collections of interesting books, tools and articles
 
 ### android
-+ <a href="http://www.androidweekly.cn/">Android Weekly</a> 
++ <a href="http://www.androidweekly.cn/">android weekly</a> 
 + [awesome-android-performance](https://github.com/Juude/awesome-android-performance)
 
 ### golang
