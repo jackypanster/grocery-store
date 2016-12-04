@@ -3,6 +3,7 @@ a collections of interesting books, tools and articles
 
 ### android
 + <a href="http://www.androidweekly.cn/">Android Weekly</a> 
++ [awesome-android-performance](https://github.com/Juude/awesome-android-performance)
 
 ### golang
 + <a href="http://marcio.io/">marcio</a>
