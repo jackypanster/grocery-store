@@ -9,6 +9,10 @@ a collections of interesting books, tools and articles
 ### golang
 + <a href="http://marcio.io/">marcio</a>
 + <a href="https://github.com/avelino/awesome-go">awesome-go</a>
++ [protobuf](https://github.com/golang/protobuf)
++ [nsq](https://github.com/nsqio/nsq)
++ [data structure](https://github.com/emirpasic/gods)
++ [HTTP client](https://github.com/parnurzeal/gorequest)
 
 ### blog
 + <a href="http://colobu.com/">鸟窝</a>
