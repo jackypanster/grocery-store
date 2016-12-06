@@ -20,4 +20,5 @@ a collections of interesting books, tools and articles
 + [Jacob Martin](https://jacobmartins.com/)
 
 ### nginx
-+ [openrestry](http://openmymind.net/#)
++ [openmymind](http://openmymind.net/#)
++ [openrestry](https://moonbingbing.gitbooks.io/openresty-best-practices/content/index.html)
