@@ -12,6 +12,7 @@ a collections of interesting books, tools and articles
 + [nsq](https://github.com/nsqio/nsq)
 + [data structure](https://github.com/emirpasic/gods)
 + [HTTP client](https://github.com/parnurzeal/gorequest)
++ [NATS](https://github.com/nats-io)
 
 ### blog
 + <a href="http://colobu.com/">鸟窝</a>
