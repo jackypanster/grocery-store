@@ -7,7 +7,6 @@ a collections of interesting books, tools and articles
 + [awesome-android-architecture](https://github.com/Juude/Awesome-Android-Architecture)
 
 ### golang
-+ <a href="http://marcio.io/">marcio</a>
 + <a href="https://github.com/avelino/awesome-go">awesome-go</a>
 + [protobuf](https://github.com/golang/protobuf)
 + [nsq](https://github.com/nsqio/nsq)
@@ -16,3 +15,5 @@ a collections of interesting books, tools and articles
 
 ### blog
 + <a href="http://colobu.com/">鸟窝</a>
++ <a href="http://marcio.io/">marcio</a>
++ [Jacob Martin](https://jacobmartins.com/)
