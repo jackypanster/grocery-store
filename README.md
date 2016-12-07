@@ -1,4 +1,4 @@
-# grocery-store
+# grocery-store (杂货铺)
 a collections of interesting books, tools and articles
 
 ### android
